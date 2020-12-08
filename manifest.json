@@ -1,0 +1,19 @@
+{
+
+	"name":"DevNishant Addblocker",
+	"version":"1.0",
+	"description":"Block Any Website That Irritate You",
+	"permissions":["webRequest","webRequestBlocking","<all_urls>"],
+	"background":{
+
+		"scripts":["bg.js"]
+	},
+	"icons":{
+		"16":"icons/a.png",
+		"48":"icons/b.png",
+		"128":"icons/c.png"
+
+	},
+		"manifest_version":2
+
+}
